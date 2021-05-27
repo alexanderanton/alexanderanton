@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Alex and i dont have time to write this anymore oof
 
 <!--
 **alexanderanton/alexanderanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
